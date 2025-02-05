@@ -65,7 +65,7 @@ This project consists of two main tasks:
 ### **React App**
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone <https://github.com/giftahmed/powerapps-login1>
    cd react-landing-page
    ```
 2. Install dependencies:
